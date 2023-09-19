@@ -1,5 +1,6 @@
 test.py
 docs/*.txt
+web/index.html
 
 .DS_Store
 __pycache__/
