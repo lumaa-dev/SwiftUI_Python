@@ -1,0 +1,3 @@
+# Config of SwiftUI docs
+docsPath: "/docs"
+webPath: "/web"
