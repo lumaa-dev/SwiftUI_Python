@@ -64,7 +64,7 @@ if has_web:
         '.html': 'text/html',
     })
     # handler.cgi_directories = [config["webPath"] + "\\index.html"]
-    print("Serveur actif sur le port :", PORT)
+    print("Server is on port: ", PORT)
 
     httpd = server(server_address, handler)
     
